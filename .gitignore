@@ -1,0 +1,5 @@
+/.vs
+/bin/Debug/out/*
+/image/
+/bin/Debug/sub/filelist.txt
+/bin/Debug/sub/log.txt
