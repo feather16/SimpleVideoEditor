@@ -3,5 +3,4 @@
 /image/
 /bin/Debug/sub/filelist.txt
 /bin/Debug/sub/log.txt
-/obj/Debug/*.cache
-/obj/Debug/x86/*.cache
+*.cache
