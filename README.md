@@ -5,3 +5,6 @@
 
 # 実行
 `run.bat`
+
+# 出力先
+`bin/Debug/out`
